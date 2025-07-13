@@ -1,5 +1,6 @@
+# Node & Vendor dependencies
 /vendor/
-node_modules/
+/node_modules/
 npm-debug.log
 yarn-error.log
 
@@ -11,20 +12,24 @@ app/storage/
 public/storage
 public/hot
 
-# Laravel 5 & Lumen specific with changed public path
+# Laravel 5 & Lumen with changed public path
 public_html/storage
 public_html/hot
 
+# Sensitive & runtime files
 storage/*.key
 .env
+.env.backup
+.env.production
+auth.json
 Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
-
-/public/build
-/storage/pail
-.env.backup
-.env.production
 .phpactor.json
-auth.json
+
+# Laravel Mix / Vite builds
+/public/build
+
+# Custom storage
+/storage/pail

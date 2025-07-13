@@ -86,7 +86,7 @@ This project is currently private. A license will be added soon.
 ## 📬 Contact / Contribute
 
 Want to contribute or report bugs? Create a GitHub Issue or reach out at:  
-📧 bharatksagar22@gmail.com
+📧 bharat.ksagar22@gmail.com
 
 ---
 

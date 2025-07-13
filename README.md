@@ -1,3 +1,4 @@
+
 # AI-Powered Crypto Trading SaaS Platform
 
 This project aims to build a full-stack AI-powered Crypto Trading SaaS Platform with the following components:
@@ -9,7 +10,8 @@ This project aims to build a full-stack AI-powered Crypto Trading SaaS Platform 
 - **Payments**: Razorpay API and UPI manual flow for subscription management.
 - **Webhooks**: Express route for receiving and processing external signals.
 
-## Features:
+## Features: A feature-rich Crypto Trading SaaS (Software as a Service) platform designed to help users build and manage their own cryptocurrency trading exchange.
+
 
 - **Authentication**: Email/password, Google OAuth2, admin approval, JWT-based sessions.
 - **Admin Panel**: User management, real-time monitoring, emergency stop, coupon management, referral tracking, webhook logs, push notifications.
@@ -25,3 +27,6 @@ This project aims to build a full-stack AI-powered Crypto Trading SaaS Platform 
 
 Detailed setup and installation instructions will be provided in subsequent sections for each component (Frontend, Backend, AI Engine).
 
+=======
+# crypto-trading-saas
+Full-featured Crypto Trading SaaS platform – supports user authentication, trading pairs, admin panel, and more
